@@ -2,13 +2,13 @@
 
 <b>Morgan Freeman Page! </b>
 
-The web i did for my most inspirational idols i ever watched, Morgan Freeman.
+The website i built for the most inspirational idol i ever watched, Morgan Freeman.
 
-He always plays the good guy, and as others says, he also good guy in the real life.
+He always plays the good guy, and as others says, he also a good guy in the real life.
 
 The Planet is important to him, he is a very good father, and has the deepest voice i ever heard :smiley:
 
-The Web is a tiny page i did for the 3rd year course: " Internet Programming Environments ".
+This is a tiny page i did for the 3rd year course: " Internet Programming Environments ".
 
 It contains : Responsive Navbar, css Dividers and Titles designed by me, Gallery using the great Flexbox, 
 
