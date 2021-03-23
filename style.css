@@ -30,6 +30,13 @@ body {
   text-decoration: none;
   font-size: 17px;
 }
+.c {
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  margin-top: 5px;
+}
 
 .topnav a:hover {
   background-color: #63a4ff;
