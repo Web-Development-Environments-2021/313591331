@@ -24,4 +24,3 @@ Some Snippets..
 
 ![alt text](https://i.snipboard.io/cgY7d9.jpg)
 ![alt text](https://i.snipboard.io/oFCmT5.jpg)
-
