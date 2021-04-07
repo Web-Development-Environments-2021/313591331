@@ -28,5 +28,6 @@ The Web built as simple as i could, without using any JS, Jquery or CSS complica
 
 Some Snippets.. 
 
-![alt text](https://i.snipboard.io/cgY7d9.jpg)
-![alt text](https://i.snipboard.io/oFCmT5.jpg)
+The email really works, it adds the emoji into the real content in your default email box!
+![alt text](https://i.ibb.co/7vwy2FK/image.png)
+![alt text](https://i.ibb.co/vhdQqsn/image.png)
